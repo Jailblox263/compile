@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smilinglucas death screen.png">
+<SubTexture name="smilinglucas death screen animation0000" x="0" y="0" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0001" x="220" y="0" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0002" x="0" y="220" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0003" x="220" y="220" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0004" x="440" y="0" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0005" x="440" y="220" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0006" x="0" y="440" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0007" x="220" y="440" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0008" x="440" y="440" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0009" x="660" y="0" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0010" x="660" y="220" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0011" x="660" y="440" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0012" x="0" y="660" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0013" x="220" y="660" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+<SubTexture name="smilinglucas death screen animation0014" x="440" y="660" width="220" height="220" frameX="0" frameY="0" frameWidth="220" frameHeight="220" />
+</TextureAtlas>

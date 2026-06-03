@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smilinglucas dead.png">
+<SubTexture name="smilinglucas dead idle0000" x="0" y="0" width="1011" height="334" frameX="-19" frameY="-48" frameWidth="1040" frameHeight="417" />
+</TextureAtlas>

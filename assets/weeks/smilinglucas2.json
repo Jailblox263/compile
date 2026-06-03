@@ -1,0 +1,50 @@
+{
+	"storyName": "lucbso",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "lucas2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"chaos",
+			"lucbso",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"crisis",
+			"lucbso",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"destruction",
+			"lucbso",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

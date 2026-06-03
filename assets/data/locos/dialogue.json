@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "smilinglucas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait WHAT HOW DID YOU BEAT ME"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol i win"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "smilinglucas",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ZSEGSREDHBSTYGBERBESRAENWSTNYRFNS\\nSDGFSDGFFSDGFSDGFSGGGFSFSGSSSGFD\\nAFDSFSFSDASDFFSDFADFAFSFSDFSASDF"
+		},
+		{
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "smilinglucas",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOWWWWWWWWWWWWWWWWWWWWWWWWWW"
+		},
+		{
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "smilinglucas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "PNEUMONOULTRAMICROSCOPICSILICOVOL\\nCANOCONIOSIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		}
+	]
+}

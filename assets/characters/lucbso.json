@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				97
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lucbso idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				153
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lucbso left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				63
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lucbso right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				95
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lucbso up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				125
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lucbso down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				92
+			],
+			"anim": "idle-alt1",
+			"fps": 24,
+			"name": "who is this",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				91
+			],
+			"anim": "idle-alt2",
+			"fps": 24,
+			"name": "who is this",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				93
+			],
+			"anim": "idle-alt3",
+			"fps": 24,
+			"name": "who is this",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				92
+			],
+			"anim": "idle-alt4",
+			"fps": 24,
+			"name": "who is this",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				89
+			],
+			"anim": "fuckyou",
+			"fps": 24,
+			"name": "who is this",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				93
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "lucbso attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				96
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "nah",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				90
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "bruha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				110
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "again",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				96
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "asd",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lucbso",
+	"position": [
+		-300,
+		350
+	],
+	"healthicon": "lucbso",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

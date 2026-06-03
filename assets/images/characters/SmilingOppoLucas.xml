@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SmilingOppoLucas.png">
+<SubTexture name="SmilingOppoLucas idle0000" x="2151" y="652" width="451" height="643" frameX="-313" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas idle0001" x="639" y="0" width="569" height="699" frameX="-248" frameY="-218" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas idle0002" x="0" y="709" width="509" height="673" frameX="-291" frameY="-244" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas idle0003" x="805" y="1382" width="472" height="658" frameX="-305" frameY="-260" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas idle0004" x="1277" y="1382" width="461" height="653" frameX="-307" frameY="-266" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas idle0005" x="2151" y="652" width="451" height="643" frameX="-313" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas left0000" x="1208" y="0" width="943" height="675" frameX="-54" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas left0001" x="0" y="1382" width="805" height="659" frameX="-140" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas left0002" x="1074" y="709" width="647" height="660" frameX="-217" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas left0003" x="2645" y="0" width="507" height="649" frameX="-279" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas left0004" x="2151" y="1295" width="451" height="643" frameX="-313" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas right0000" x="0" y="0" width="639" height="709" frameX="-267" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas right0001" x="509" y="709" width="565" height="666" frameX="-288" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas right0002" x="2151" y="0" width="494" height="652" frameX="-300" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas right0003" x="0" y="2041" width="451" height="643" frameX="-313" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas up0000" x="451" y="2041" width="698" height="643" frameX="-191" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas up0001" x="1600" y="2041" width="698" height="634" frameX="-191" frameY="-282" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas up0002" x="2298" y="2041" width="698" height="616" frameX="-192" frameY="-300" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas down0000" x="2645" y="649" width="451" height="648" frameX="-313" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas down0001" x="2645" y="1297" width="451" height="646" frameX="-313" frameY="-273" frameWidth="1066" frameHeight="1172" />
+<SubTexture name="SmilingOppoLucas down0002" x="1149" y="2041" width="451" height="643" frameX="-313" frameY="-273" frameWidth="1066" frameHeight="1172" />
+</TextureAtlas>

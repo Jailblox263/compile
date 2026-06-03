@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"linedings",
+			"smilinglucas"
+		],
+		[
+			"locos",
+			"smilinglucas"
+		],
+		[
+			"wsmilinglucas",
+			"smilinglucas"
+		],
+		[
+			"5P4M",
+			"smilinglucas"
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lucas",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "smilinglucas the pm 6:06 fan???????",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		0,
+		215,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

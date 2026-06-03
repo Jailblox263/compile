@@ -1,0 +1,63 @@
+{
+	"storyName": "freeplay",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"cake",
+			"cake"
+		],
+		[
+			"smilinglucas-meets-bambi",
+			"bambi"
+		],
+		[
+			"disposition",
+			"lucasdisposition"
+		],
+		[
+			"lacuna",
+			"smilinglucasLacuna"
+		],
+		[
+			"thearchy",
+			"oppolucas"
+		],
+		[
+			"old-corn-theft",
+			"smilinglucas old version"
+		],
+		[
+			"radioimmunoelectrophoresis",
+			"smilinglucas"
+		],
+		[
+			"papayatophobia",
+			"smilinglucas"
+		],
+		[
+			"unnamed",
+			"smilinglucas"
+		],
+		[
+			"vruh",
+			"smilinglucas"
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smilinglucasLacuna.png">
+<SubTexture name="smilinglucas idle0000" x="3629" y="0" width="936" height="1336" frameX="-445" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas idle0001" x="4565" y="0" width="936" height="1316" frameX="-445" frameY="-502" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas idle0002" x="3629" y="1336" width="936" height="1325" frameX="-445" frameY="-493" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas idle0003" x="3629" y="0" width="936" height="1336" frameX="-445" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas left0000" x="985" y="1412" width="1301" height="1341" frameX="-180" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas left0001" x="2286" y="1412" width="1252" height="1338" frameX="-169" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas left0002" x="0" y="2761" width="943" height="1336" frameX="-440" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas right0000" x="0" y="0" width="1458" height="1412" frameX="-195" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas right0001" x="1458" y="0" width="1186" height="1363" frameX="-345" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas up0000" x="943" y="2761" width="1239" height="1336" frameX="-357" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas up0001" x="3124" y="2761" width="1239" height="1323" frameX="-357" frameY="-495" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas up0002" x="0" y="4097" width="1239" height="1312" frameX="-357" frameY="-506" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas down0000" x="2644" y="0" width="985" height="1360" frameX="-441" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas down0001" x="0" y="1412" width="985" height="1349" frameX="-441" frameY="-482" frameWidth="1808" frameHeight="1909" />
+<SubTexture name="smilinglucas down0002" x="2182" y="2761" width="942" height="1336" frameX="-441" frameY="-482" frameWidth="1808" frameHeight="1909" />
+</TextureAtlas>

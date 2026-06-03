@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-580,
+		-680
+	],
+	"scale": 0.499999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "smilinglucas idle0000",
+			"idle_name": "smilinglucas idle0000"
+		}
+	],
+	"image": "smilinglucas"
+}

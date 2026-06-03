@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cake.png">
+<SubTexture name="cake idle0000" x="447" y="523" width="354" height="479" frameX="-85" frameY="-87" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake idle0001" x="801" y="523" width="354" height="479" frameX="-112" frameY="-87" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake left0000" x="1158" y="0" width="400" height="479" frameX="-26" frameY="-87" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake left0001" x="1158" y="479" width="383" height="479" frameX="-49" frameY="-87" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake right0000" x="0" y="523" width="447" height="481" frameX="-101" frameY="-92" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake right0001" x="763" y="0" width="395" height="482" frameX="-94" frameY="-83" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake up0000" x="0" y="0" width="406" height="523" frameX="-40" frameY="-1" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake up0001" x="406" y="0" width="357" height="511" frameX="-92" frameY="-36" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake down0000" x="0" y="1004" width="354" height="339" frameX="-85" frameY="-256" frameWidth="551" frameHeight="664" />
+<SubTexture name="cake down0001" x="354" y="1004" width="354" height="308" frameX="-85" frameY="-294" frameWidth="551" frameHeight="664" />
+</TextureAtlas>

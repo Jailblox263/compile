@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "smilinglucas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WTF why are you here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello im boyfriend"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i joined in 2020"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "smilinglucas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

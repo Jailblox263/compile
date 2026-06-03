@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lucbso.png">
+<SubTexture name="lucbso idle0000" x="1070" y="1337" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso idle0001" x="0" y="1337" width="543" height="322" frameX="-48" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso idle0002" x="543" y="1337" width="527" height="318" frameX="-54" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso idle0003" x="1070" y="1337" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="who is this0000" x="1664" y="0" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="who is this0001" x="1016" y="1659" width="508" height="285" frameX="-60" frameY="-191" frameWidth="628" frameHeight="634" />
+<SubTexture name="who is this0002" x="2172" y="0" width="508" height="248" frameX="-60" frameY="-231" frameWidth="628" frameHeight="634" />
+<SubTexture name="who is this0003" x="1524" y="1659" width="508" height="285" frameX="-60" frameY="-191" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso down0000" x="1664" y="313" width="508" height="313" frameX="-67" frameY="-189" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso left0000" x="313" y="0" width="313" height="507" frameX="-190" frameY="-120" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso right0000" x="0" y="0" width="313" height="508" frameX="-214" frameY="-29" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso up0000" x="1664" y="626" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="who is this0004" x="1664" y="0" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="nah0000" x="626" y="0" width="519" height="455" frameX="-60" frameY="-18" frameWidth="628" frameHeight="634" />
+<SubTexture name="nah0001" x="1145" y="0" width="519" height="405" frameX="-60" frameY="-68" frameWidth="628" frameHeight="634" />
+<SubTexture name="nah0002" x="1145" y="405" width="519" height="362" frameX="-60" frameY="-111" frameWidth="628" frameHeight="634" />
+<SubTexture name="again0000" x="526" y="963" width="549" height="366" frameX="-49" frameY="-134" frameWidth="628" frameHeight="634" />
+<SubTexture name="again0001" x="1075" y="963" width="521" height="344" frameX="-55" frameY="-146" frameWidth="628" frameHeight="634" />
+<SubTexture name="asd0000" x="0" y="508" width="507" height="455" frameX="-59" frameY="-18" frameWidth="628" frameHeight="634" />
+<SubTexture name="asd0001" x="507" y="508" width="507" height="436" frameX="-59" frameY="-37" frameWidth="628" frameHeight="634" />
+<SubTexture name="bruha0000" x="1664" y="939" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="bruha0001" x="0" y="963" width="526" height="374" frameX="-40" frameY="-132" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso attack0000" x="1664" y="1252" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso attack0001" x="0" y="1659" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+<SubTexture name="lucbso attack0002" x="508" y="1659" width="508" height="313" frameX="-60" frameY="-160" frameWidth="628" frameHeight="634" />
+</TextureAtlas>
