@@ -39,7 +39,7 @@ jobs:
         run: haxelib run lime build html5 -release
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: OS-Engine-HTML5
           path: export/release/html5/bin/
